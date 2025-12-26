@@ -10,7 +10,7 @@
 - I’m currently learning **system design** and improving my **backend architecture skills**
 - I love learning by building real projects and experimenting with new technologies
 - How to reach me: **nourbenammar0202@gmail.com**
-- Know about my experiences: 
+- Know about my experiences: [Télécharger mon CV](./CV_NourBenAmmar.pdf)
 - All of my projects are available at: (https://github.com/nourBA04)
 
 ---
