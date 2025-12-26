@@ -10,8 +10,8 @@
 - I’m currently learning **system design** and improving my **backend architecture skills**
 - I love learning by building real projects and experimenting with new technologies
 - How to reach me: **nourbenammar0202@gmail.com**
-- Know about my experiences: *(link coming soon)*
-- All of my projects are available at: *(link coming soon)*
+- Know about my experiences: 
+- All of my projects are available at: (https://github.com/nourBA04)
 
 ---
 
